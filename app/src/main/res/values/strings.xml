@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BIOMETRICS SYSTEM</string>
+
+    <string name="btn_authenticate">LOGIN</string>
+
+    <string name="biometric_title">LOGIN</string>
+    <string name="biometric_subtitle">Login to your system</string>
+    <string name="biometric_description">Please put your fingerprint on the device home button to verify from authentication</string>
+    <string name="biometric_negative_button_text">CANCEL</string>
+
+
+    <string name="biometric_error_sdk_not_supported">SDK VERSION NOT SUPPORTED</string>
+    <string name="biometric_error_hardware_not_supported">DEVICE DOES NOT SUPPORT BIOMETRIC AUTHENTICATION</string>
+    <string name="biometric_error_fingerprint_not_available">FINGERPRINT NOT REGISTERED IN THE DEVICE</string>
+    <string name="biometric_error_permission_not_granted">PERMISSION IS NOT GRANTED</string>
+    <string name="biometric_failure">LOGIN IS NOT SUCCESSFUL!</string>
+    <string name="biometric_cancelled">AUTHENTICATION CANCELED</string>
+    <string name="biometric_success">LOGIN SUCCESSFUL</string>
+
+</resources>
